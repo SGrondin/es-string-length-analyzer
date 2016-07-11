@@ -54,4 +54,4 @@ Indexed field data: `["3", "5", "3", "6"]`
 
 From your ES home directory:
 
-`bin/plugin install bin/plugin install https://github.com/SGrondin/es-string-length-analyzer/releases/download/2.2.1/es-string-length-analyzer-2.2-plugin.zip`
+`bin/plugin install https://github.com/SGrondin/es-string-length-analyzer/releases/download/2.2.1/es-string-length-analyzer-2.2-plugin.zip`
