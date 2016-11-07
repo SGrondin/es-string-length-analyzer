@@ -1,6 +1,6 @@
 #es-string-length-analyzer
 
-Efficient low level Analyzer and TokenFilter for ElasticSearch 2.2.1. No other versions are supported at the moment, please open an Issue (or submit a PR) if you'd like to see your version being supported.
+Efficient low level Analyzer and TokenFilter for ElasticSearch 2.2.1 and 2.4.1. No other versions are supported at the moment, please open an Issue (or submit a PR) if you'd like to see your version being supported.
 
 #### As an Analyzer:
 
@@ -54,4 +54,8 @@ Indexed field data: `["3", "5", "3", "6"]`
 
 From your ES home directory:
 
+#### ES 2.2.1
 `bin/plugin install https://github.com/SGrondin/es-string-length-analyzer/releases/download/2.2.1/es-string-length-analyzer-2.2-plugin.zip`
+
+#### ES 2.4.1
+`bin/plugin install https://github.com/SGrondin/es-string-length-analyzer/releases/download/2.4.1/es-string-length-analyzer-2.4-plugin.zip`
